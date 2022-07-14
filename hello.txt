@@ -1,8 +1,10 @@
 Hi, Im juli . Im currently enrolled in computering engineering at Nepal College of Information technology. 
 I will be graduating at the end of 2022.
 
-<<<<<<< HEAD
-framework: react js, bootstrap,nodejs
-=======
 skills:HTML5,CSS,Jvascript
->>>>>>> second
+
+framework: react js, bootstrap,nodejs
+
+
+
+
